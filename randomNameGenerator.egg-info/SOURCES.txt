@@ -1,0 +1,6 @@
+randomName.py
+setup.py
+randomNameGenerator.egg-info/PKG-INFO
+randomNameGenerator.egg-info/SOURCES.txt
+randomNameGenerator.egg-info/dependency_links.txt
+randomNameGenerator.egg-info/top_level.txt

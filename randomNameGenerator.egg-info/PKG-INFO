@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: randomNameGenerator
+Version: 0.1
+Summary: A random number generator package
+Home-page: https://github.com/pb2921/randomNameGen
+Author: Priyanshu Bhatt
+Author-email: priyanshu2921@gmail.com
+License: UNKNOWN
+Description: # randomNameGen
+        random name generator
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
