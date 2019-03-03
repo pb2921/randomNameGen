@@ -1,3 +1,6 @@
+1000Names.txt
+100lastNames.txt
+MANIFEST.in
 randomName.py
 setup.py
 randomNameGen.egg-info/PKG-INFO
