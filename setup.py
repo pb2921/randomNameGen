@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='randomNameGen',  
-     version='0.1',
+     version='0.2',
      scripts=['randomName.py'] ,
      author="Priyanshu Bhatt",
      author_email="priyanshu2921@gmail.com",
