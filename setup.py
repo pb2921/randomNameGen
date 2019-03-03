@@ -2,7 +2,7 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='randomNameGenerator',  
+     name='randomNameGen',  
      version='0.1',
      scripts=['randomName.py'] ,
      author="Priyanshu Bhatt",
