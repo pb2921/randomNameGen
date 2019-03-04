@@ -1,4 +1,9 @@
 #MANIFEST.in is really just a list of relative file paths specifying files or globs to include.:
 #include README.rst
-include *.txt
-include randomNameGen/*.txt
+#1include *.txt
+#1include randomNameGen/*.txt
+include 100lastNames.txt
+include 1000Names.txt
+recursive-include randomNameGen/static *
+recursive-include randomNameGen *
+

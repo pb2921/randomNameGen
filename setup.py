@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='randomNameGen',  
-     version='0.4',
+     version='0.5',
      scripts=['randomName.py'] ,
      author="Priyanshu Bhatt",
      author_email="priyanshu2921@gmail.com",
@@ -17,10 +17,10 @@ setuptools.setup(
      package_data={'': [
     'randomNameGen/*.txt',
     'randomNameGen/1000Names.txt',
-    'randomNameGen/100lastNames.txt'    ,
-    '*.txt',
-     ]
-      #'randomNameGen': ['1000Names.txt','100lastNames.txt'],
+    'randomNameGen/100lastNames.txt',
+    '*.txt'
+     ],
+      'randomNameGen': ['1000Names.txt','100lastNames.txt']
      },
 	classifiers=[
          "Programming Language :: Python :: 3",
